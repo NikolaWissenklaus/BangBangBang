@@ -1,4 +1,4 @@
-# 📱 BangBangBang (Android)
+# 🐔 BangBangBang (Android)
 
 Uma ferramenta de automação baseada em **Streamlit** para capturar e visualizar logs do Google Analytics 4 (GA4) e Firebase em tempo real, diretamente de um dispositivo Android via USB.
 
