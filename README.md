@@ -40,5 +40,5 @@ python -m streamlit run app.py
 ```
 O navegador abrirá automaticamente exibindo os logs e eventos do GA4 capturados do Firebase.
 
-
+# OBS: Também funciona com o emulador do Android Studio.
 
